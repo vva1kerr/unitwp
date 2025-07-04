@@ -1,3 +1,5 @@
+* https://blog.nginx.org/blog/building-application-stacks-with-nginx-unit
+
 # unitwp
 NGINX Unit PHP Wordpress buildstack. This will create a docker container image, running wordpress and expose it on port 8080. The production ready container image does not include a database. If you need a database along with your WP installation, check out the dev folder.
 
